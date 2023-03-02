@@ -10,3 +10,4 @@
 **March 1, 2023** 
 - Studied queues
 - Brainstormed ideas for first independent project
+- Learned about Express, Nodemon, and building an API
