@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 2, 2023**
+- Studied hashmaps and JavaScript Map methods
+
 **March 1, 2023** 
 - Studied queues
 - Brainstormed ideas for first independent project
