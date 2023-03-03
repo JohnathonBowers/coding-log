@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 3, 2023**
+- Completed a project in which I built a small API using data from Faker API, ran it using Express and Nodemon, and tested it using Postman.
+
 **March 2, 2023**
 - Studied hashmaps and JavaScript Map methods
 
