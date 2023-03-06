@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 5, 2023**
+- Practiced MongoDB CRUD operations using the MongoDB Shell
+
 **March 4, 2023**
 - Studied the basics of MongoDB, including CRUD methods and important operators
 
