@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 6, 2023**
+- Studied how to use Mongoose to work with MongoDB
+
 **March 5, 2023**
 - Practiced MongoDB CRUD operations using the MongoDB Shell
 
