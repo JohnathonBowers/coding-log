@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 7, 2023**
+- Studied how to use Mongoose CRUD commands and validations
+
 **March 6, 2023**
 - Studied how to use Mongoose to work with MongoDB
 
