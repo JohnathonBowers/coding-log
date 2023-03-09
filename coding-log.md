@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 8, 2023**
+- Built a small API using modularized folders and files to perform Mongoose CRUD operations on MongoDB
+
 **March 7, 2023**
 - Studied how to use Mongoose CRUD commands and validations
 
