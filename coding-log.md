@@ -9,6 +9,7 @@
 
 **March 9, 2023**
 - Studied how to bring together both front and back ends on a MERN project
+- Began working on a full-stack MERN application, starting with the server side
 
 **March 8, 2023**
 - Built a small API using modularized folders and files to perform Mongoose CRUD operations on MongoDB
