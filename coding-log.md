@@ -7,6 +7,10 @@
 
 ## March 2023
 
+**March 10, 2023**
+- Built out get and post functionality for a model in my full-stack MERN application
+- Tested get and post routes with Postman
+
 **March 9, 2023**
 - Studied how to bring together both front and back ends on a MERN project
 - Began working on a full-stack MERN application, starting with the server side
