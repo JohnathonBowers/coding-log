@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 11, 2023**
+- Built a React component to take in form data for my full-stack MERN application
+
 **March 10, 2023**
 - Built out get and post functionality for a model in my full-stack MERN application
 - Tested get and post routes with Postman
