@@ -7,6 +7,10 @@
 
 ## March 2023
 
+**March 12, 2023**
+- Added functionality to the handleSubmit function in my ProductForm React component to reset state after submitting the form data via a post route
+- Figured out how to perform number validations on a useState property
+
 **March 11, 2023**
 - Built a React component to take in form data for my full-stack MERN application
 
