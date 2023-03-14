@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 13, 2023**
+- Studied how to retrieve all documents from a MongoDB collection and display them in a React component.
+
 **March 12, 2023**
 - Added functionality to the handleSubmit function in my ProductForm React component to reset state after submitting the form data via a post route
 - Figured out how to perform number validations on a useState property
