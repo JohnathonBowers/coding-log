@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 14, 2023**
+- Worked on building a React component that displays all of the documents in the collection I'm working with. Also worked on making this component a child component of a Main.jsx view component that can display both the ProductForm and ProductList components in the same front-end path.
+
 **March 13, 2023**
 - Studied how to retrieve all documents from a MongoDB collection and display them in a React component.
 
