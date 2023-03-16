@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 15, 2023**
+- Finished a first iteration of the ProductList component I had started yesterday.
+
 **March 14, 2023**
 - Worked on building a React component that displays all of the documents in the collection I'm working with. Also worked on making this component a child component of a Main.jsx view component that can display both the ProductForm and ProductList components in the same front-end path.
 
