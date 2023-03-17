@@ -7,14 +7,18 @@
 
 ## March 2023
 
+**March 16, 2023**
+- Added the ability for each of my products in my ProductList component to link to another React component that displays more information about that particular product
+
 **March 15, 2023**
-- Finished a first iteration of the ProductList component I had started yesterday.
+- Finished a first iteration of the ProductList component I had started yesterday
 
 **March 14, 2023**
-- Worked on building a React component that displays all of the documents in the collection I'm working with. Also worked on making this component a child component of a Main.jsx view component that can display both the ProductForm and ProductList components in the same front-end path.
+- Worked on building a React component that displays all of the documents in the collection I'm working with
+- Also worked on making this component a child component of a Main.jsx view component that can display both the ProductForm and ProductList components in the same front-end path
 
 **March 13, 2023**
-- Studied how to retrieve all documents from a MongoDB collection and display them in a React component.
+- Studied how to retrieve all documents from a MongoDB collection and display them in a React component
 
 **March 12, 2023**
 - Added functionality to the handleSubmit function in my ProductForm React component to reset state after submitting the form data via a post route
