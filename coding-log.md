@@ -7,6 +7,10 @@
 
 ## March 2023
 
+**March 17, 2023**
+- Added edit and delete functionality to my MERN project
+- Tried unsuccesfully to deploy the project on AWS
+
 **March 16, 2023**
 - Added the ability for each of my products in my ProductList component to link to another React component that displays more information about that particular product
 
