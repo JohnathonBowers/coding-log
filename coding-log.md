@@ -7,6 +7,10 @@
 
 ## March 2023
 
+**March 18, 2023**
+- Successfully deployed MERN project on AWS
+- Added the ability to my App.js file to redirect from "/" to "/products", which is the home page for my app
+
 **March 17, 2023**
 - Added edit and delete functionality to my MERN project
 - Tried unsuccesfully to deploy the project on AWS
