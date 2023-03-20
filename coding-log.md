@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 19, 2023**
+- Took Coding Dojo exam to demonstrate proficiency in MERN
+
 **March 18, 2023**
 - Successfully deployed MERN project on AWS
 - Added the ability to my App.js file to redirect from "/" to "/products", which is the home page for my app
