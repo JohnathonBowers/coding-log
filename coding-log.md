@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 22, 2023**
+- Began a full-stack project that allows users to perform CRUD operations on author names and brings back-end validations up to the front end for display
+
 **March 19, 2023**
 - Took Coding Dojo exam to demonstrate proficiency in MERN
 
