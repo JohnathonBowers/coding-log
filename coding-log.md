@@ -7,6 +7,10 @@
 
 ## March 2023
 
+**March 24, 2023**
+- Finished author name project, including components for editing and deleting authors
+- Also displayed back-end validation error messages on the front end
+
 **March 23, 2023**
 - Built the back end of the author name project and began developing components to display all authors and to create a new author
 
