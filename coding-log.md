@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 27, 2023**
+- Studied React.js topics including Context API, Render Props, and how to build custom hooks.
+
 **March 24, 2023**
 - Finished author name project, including components for editing and deleting authors
 - Also displayed back-end validation error messages on the front end
