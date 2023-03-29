@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 29, 2023**
+- Studied MERN authorization/authentication concepts including cookies, login/logout, and authorization and middleware
+
 **March 28, 2023**
 - Studied MERN authorization/authentication concepts including creating a user model, registration, environment variables, and JSON Web Tokens.
 
