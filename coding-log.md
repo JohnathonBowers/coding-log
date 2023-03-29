@@ -7,6 +7,9 @@
 
 ## March 2023
 
+**March 28, 2023**
+- Studied MERN authorization/authentication concepts including creating a user model, registration, environment variables, and JSON Web Tokens.
+
 **March 27, 2023**
 - Studied React.js topics including Context API, Render Props, and how to build custom hooks.
 
