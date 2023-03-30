@@ -9,6 +9,7 @@
 
 **March 29, 2023**
 - Studied MERN authorization/authentication concepts including cookies, login/logout, and authorization and middleware
+- Began Josh W. Comeau's CSS for JavaScript Developers course, starting with reviewing CSS fundamentals
 
 **March 28, 2023**
 - Studied MERN authorization/authentication concepts including creating a user model, registration, environment variables, and JSON Web Tokens.
