@@ -7,6 +7,10 @@
 
 ## March 2023
 
+**March 30, 2023**
+- Studied how to calculate Big O time complexity
+- Studied the fundamentals of CSS selectors, color, units, and typography in Josh W. Comeau's "CSS for JavaScript Developers" course
+
 **March 29, 2023**
 - Studied MERN authorization/authentication concepts including cookies, login/logout, and authorization and middleware
 - Began Josh W. Comeau's CSS for JavaScript Developers course, starting with reviewing CSS fundamentals
