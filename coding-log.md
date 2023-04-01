@@ -3,7 +3,14 @@
 **Summary:** This log serves as a record of my own growth as a developer. It lists topics I have studied and coding projects I have worked on. Log entries are in reverse chronological order.
 
 **Table of Contents**
+- [April 2023](#april-2023)
 - [March 2023](#march-2023)
+
+## April 2023
+
+**April 1, 2023**
+- Worked on feature list for my individual project for the Projects and Algorithms module in my Coding Dojo bootcamp
+
 
 ## March 2023
 
