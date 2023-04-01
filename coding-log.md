@@ -7,6 +7,10 @@
 
 ## March 2023
 
+**March 31, 2023**
+- Studied how to calculate Big O space complexity in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms"
+- Studied a general overview of JavaScript in Jonas Schmedtmann's "The Complete JavaScript Course 2023"
+
 **March 30, 2023**
 - Studied how to calculate Big O time complexity
 - Studied the fundamentals of CSS selectors, color, units, and typography in Josh W. Comeau's "CSS for JavaScript Developers" course
