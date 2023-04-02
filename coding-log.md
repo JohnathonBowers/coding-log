@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 2, 2023**
+- Designed MVP wireframe for my individual project for the Projects and Algorithms module in my Coding Dojo bootcamp
+
 **April 1, 2023**
 - Worked on feature list for my individual project for the Projects and Algorithms module in my Coding Dojo bootcamp
 - Studied coding interview problem-solving strategies in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms"
