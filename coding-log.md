@@ -11,6 +11,7 @@
 **April 1, 2023**
 - Worked on feature list for my individual project for the Projects and Algorithms module in my Coding Dojo bootcamp
 - Studied coding interview problem-solving strategies in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms"
+- Worked on wireframe for my individual project
 
 
 ## March 2023
