@@ -11,6 +11,7 @@
 **April 3, 2023**
 - Read through "Algorithm Concepts and Tips" unit in the Projects and Algorithms module in my Coding Dojo bootcamp
 - Studied a general overview of data structures and introductory material on arrays in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms"
+- Studied values and variables in Jonas Schmedtmann's "The Complete JavaScript Course 2023"
 
 **April 2, 2023**
 - Designed MVP wireframe for my individual project for the Projects and Algorithms module in my Coding Dojo bootcamp
