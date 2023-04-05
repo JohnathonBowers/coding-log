@@ -8,6 +8,11 @@
 
 ## April 2023
 
+**April 4, 2023**
+- Studied JavaScript data types as well as declaring variables with let, const, and var in Jonas Schmedtmann's "The Complete JavaScript Course 2023"
+- Wrote algorithms for manipulating arrays for the Projects and Algorithms module in my Coding Dojo bootcamp
+- Studied the difference between static and dynamic arrays in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms"
+
 **April 3, 2023**
 - Read through "Algorithm Concepts and Tips" unit in the Projects and Algorithms module in my Coding Dojo bootcamp
 - Studied a general overview of data structures and introductory material on arrays in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms"
