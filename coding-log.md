@@ -8,6 +8,10 @@
 
 ## April 2023
 
+**April 5, 2023**
+- Studied arrays and JavaScript data types for the Projects and Algorithms module in my Coding Dojo bootcamp
+- Wrote an algorithm reversing the values in a given array in place, without creating a new array
+
 **April 4, 2023**
 - Studied JavaScript data types as well as declaring variables with let, const, and var in Jonas Schmedtmann's "The Complete JavaScript Course 2023"
 - Wrote algorithms for manipulating arrays for the Projects and Algorithms module in my Coding Dojo bootcamp
