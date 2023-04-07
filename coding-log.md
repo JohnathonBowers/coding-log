@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 6, 2023**
+- Worked on back-end code for my Quoteworthy app. Created data model for user-entered quotations.
+
 **April 5, 2023**
 - Studied arrays and JavaScript data types for the Projects and Algorithms module in my Coding Dojo bootcamp
 - Wrote an algorithm reversing the values in a given array in place, without creating a new array
