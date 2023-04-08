@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 7, 2023**
+- Built and tested controller and routes for my Quoteworthy app.
+
 **April 6, 2023**
 - Worked on back-end code for my Quoteworthy app. Created data model for user-entered quotations.
 
