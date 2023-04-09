@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 8, 2023**
+- Built out first iteration of the QuotationList component for my Quoteworthy app.
+
 **April 7, 2023**
 - Built and tested controller and routes for my Quoteworthy app.
 
