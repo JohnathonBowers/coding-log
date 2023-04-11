@@ -8,10 +8,15 @@
 
 ## April 2023
 
+**April 10, 2023**
+- Finished the form for the QuotationForm component in my Quoteworthy app.
+- Created first iteration of QuotationDetails component
+- Added edit and delete functionality to the quotations in the QuotationList component
+
 **April 9, 2023**
 - Added starter code for QuotationForm, QuotationCreate, and QuotationEdit components
 - Added front-end routes for these components
-- Began building the form for the Quotation Form component
+- Began building the form for the QuotationForm component
 
 **April 8, 2023**
 - Built out first iteration of the QuotationList component for my Quoteworthy app.
