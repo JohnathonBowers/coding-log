@@ -8,6 +8,10 @@
 
 ## April 2023
 
+**April 11, 2023**
+- Worked on algorithm challenges related to strings for my Projects & Algorithms course for Coding Dojo
+- Refactored the styling of the QuotationList component in my Quoteworthy app
+
 **April 10, 2023**
 - Finished the form for the QuotationForm component in my Quoteworthy app.
 - Created first iteration of QuotationDetails component
