@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 12, 2023**
+- Created login and registration functionality for my Quoteworthy app
+
 **April 11, 2023**
 - Worked on algorithm challenges related to strings for my Projects & Algorithms course for Coding Dojo
 - Refactored the styling of the QuotationList component in my Quoteworthy app
