@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 13, 2023**
+- Worked on back-end authentication for my Quoteworthy app
+
 **April 12, 2023**
 - Created login and registration functionality for my Quoteworthy app
 
