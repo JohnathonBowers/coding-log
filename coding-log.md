@@ -8,6 +8,17 @@
 
 ## April 2023
 
+**April 16, 2023**
+- Came up with two group project ideas for my Projects & Algorithms course
+- Fleshed out generic feature list for our group project
+
+**April 15, 2023**
+- Implemented front-end cookie creation for my Quoteworthy app so that the logged in user's first name persists even after a page reload
+
+**April 14, 2023**
+- Added withCredentials conditions to my front-end Axios requests for my Quoteworthy app
+- Refactored styling in my QuotationList component
+
 **April 13, 2023**
 - Worked on back-end authentication for my Quoteworthy app
 
