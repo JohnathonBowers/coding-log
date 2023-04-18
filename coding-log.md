@@ -8,6 +8,10 @@
 
 ## April 2023
 
+**April 17, 2023**
+- Collaborated with group members to decide on which project idea we wanted to build
+- Made final changes to my Quoteworthy project in preparation for presenting it to my Projects & Algorithms classmates tomorrow
+
 **April 16, 2023**
 - Came up with two group project ideas for my Projects & Algorithms course
 - Fleshed out generic feature list for our group project
