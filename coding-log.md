@@ -11,6 +11,7 @@
 **April 18, 2023**
 - Created GitHub project repo for my Projects & Algorithms group project
 - Finished feature list for group project, including both MVP and bonus features
+- Presented my Quoteworthy app to my Projects & Algorithms classmates
 
 **April 17, 2023**
 - Collaborated with group members to decide on which project idea we wanted to build
