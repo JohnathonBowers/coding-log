@@ -8,6 +8,10 @@
 
 ## April 2023
 
+**April 19, 2023**
+- Created GitHub collaboration workflow document to serve as a resource for my group project team members
+- Approved pull request and merged starter files from a team member into the main branch of our project repo
+
 **April 18, 2023**
 - Created GitHub project repo for my Projects & Algorithms group project
 - Finished feature list for group project, including both MVP and bonus features
