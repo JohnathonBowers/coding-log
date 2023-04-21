@@ -11,6 +11,7 @@
 **April 20, 2023**
 - Approved pull request for group member who created the MySQL ERD for our group project
 - Studied recursive algorithms during the lecture hour for my Projects & Algorithms course
+- Wrote methods for adding, removing, and returning the value of the node at the head of a singly linked list
 
 **April 19, 2023**
 - Created GitHub collaboration workflow document to serve as a resource for my group project team members
