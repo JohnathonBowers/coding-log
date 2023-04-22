@@ -8,6 +8,11 @@
 
 ## April 2023
 
+**April 21, 2023**
+- Wrote a "display()" method for a singly linked list assignment for my Projects & Algorithms course
+- Reviewed notes on Python
+- Began running the current version of my group's project in the virtual environment
+
 **April 20, 2023**
 - Approved pull request for group member who created the MySQL ERD for our group project
 - Studied recursive algorithms during the lecture hour for my Projects & Algorithms course
