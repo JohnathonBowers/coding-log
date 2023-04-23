@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 22, 2023**
+- Refactored login and registration for group project
+
 **April 21, 2023**
 - Wrote a "display()" method for a singly linked list assignment for my Projects & Algorithms course
 - Reviewed notes on Python
