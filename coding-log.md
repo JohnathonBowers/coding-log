@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 23, 2023**
+- Refactored player edit and delete functionality for group project
+
 **April 22, 2023**
 - Refactored login and registration for group project
 
