@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 24, 2023**
+- Collaborated with team members on what the next steps should be for our group project
+
 **April 23, 2023**
 - Refactored player edit and delete functionality for group project
 
