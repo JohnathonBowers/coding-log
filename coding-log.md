@@ -9,6 +9,7 @@
 ## April 2023
 
 **April 24, 2023**
+- Worked on technical resume
 - Collaborated with team members on what the next steps should be for our group project
 
 **April 23, 2023**
