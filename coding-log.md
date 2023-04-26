@@ -8,6 +8,12 @@
 
 ## April 2023
 
+**April 26, 2023**
+- Refactored the dashboard on our group project in order to address a bug where following a player would sometimes cause that player's entry to show up twice on the main player list.
+
+**April 25, 2023**
+- Worked on heavily refactoring the styling of our group project's front-end templates
+
 **April 24, 2023**
 - Worked on technical resume
 - Collaborated with team members on what the next steps should be for our group project
