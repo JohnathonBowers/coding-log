@@ -8,6 +8,11 @@
 
 ## April 2023
 
+**April 27, 2023**
+- Tested my Coding Dojo group project for bugs, populated it with player profiles from different users
+- Made a small styling adjustment to the main dashboard page
+- Presented group project to Projects & Algos classmates
+
 **April 26, 2023**
 - Refactored the dashboard on our group project in order to address a bug where following a player would sometimes cause that player's entry to show up twice on the main player list.
 
