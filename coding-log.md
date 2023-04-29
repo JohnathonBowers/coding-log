@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 28, 2023**
+- Studied recursive algorithms on Coding Dojo's learning platform
+
 **April 27, 2023**
 - Tested my Coding Dojo group project for bugs, populated it with player profiles from different users
 - Made a small styling adjustment to the main dashboard page
