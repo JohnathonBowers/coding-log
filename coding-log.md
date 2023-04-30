@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 29, 2023**
+- Studied how to implement an array by building a MyArray class in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms"
+
 **April 28, 2023**
 - Studied recursive algorithms on Coding Dojo's learning platform
 - Studied JavaScript classes in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms"
