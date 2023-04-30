@@ -8,6 +8,9 @@
 
 ## April 2023
 
+**April 30, 2023**
+- Studied basic JavaScript operators and operator precedence in Jonas Schmedtmann's "The Complete JavaScript Course 2023"
+
 **April 29, 2023**
 - Studied how to implement an array by building a MyArray class in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms"
 
