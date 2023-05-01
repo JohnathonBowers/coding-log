@@ -9,7 +9,11 @@
 ## April 2023
 
 **April 30, 2023**
-- Studied basic JavaScript operators and operator precedence in Jonas Schmedtmann's "The Complete JavaScript Course 2023"
+- Studied the following topics in Jonas Schmedtmann's "The Complete JavaScript Course 2023" 
+  - Basic JavaScript operators
+  - Operator precedence
+  - Template literals
+  - If-else statements
 - Worked on an algorithm to merge two sorted arrays (problem from Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms")
 
 **April 29, 2023**
