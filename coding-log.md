@@ -3,8 +3,15 @@
 **Summary:** This log serves as a record of my own growth as a developer. It lists topics I have studied and coding projects I have worked on. Log entries are in reverse chronological order.
 
 **Table of Contents**
+- [May 2023](#may-2023)
 - [April 2023](#april-2023)
 - [March 2023](#march-2023)
+
+## May 2023
+
+**May 1, 2023**
+- Studied hash tables, hash functions, hash collision, and the Map and Set classes in ES6 in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+- Worked on technical resume
 
 ## April 2023
 
