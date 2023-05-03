@@ -9,9 +9,14 @@
 
 ## May 2023
 
+**May 2, 2023**
+- Studied how to construct a hash table in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+- Worked on technical resume
+
 **May 1, 2023**
 - Studied hash tables, hash functions, hash collision, and the Map and Set classes in ES6 in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
 - Worked on technical resume
+
 
 ## April 2023
 
