@@ -9,6 +9,10 @@
 
 ## May 2023
 
+**May 6, 2023**
+- Completed an algorithm that used a hash table to help find the first recurring character in an array (the problem came from Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course)
+- Began studying linked lists in "Master the Coding Interview"
+
 **May 2, 2023**
 - Studied how to construct a hash table in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
 - Worked on technical resume
