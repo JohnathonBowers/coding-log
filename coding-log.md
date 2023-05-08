@@ -9,8 +9,11 @@
 
 ## May 2023
 
+**May 8, 2023**
+- Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, built a doubly-linked list class in JavaScript and added operations like append, prepend, insert, remove, and printList
+
 **May 7, 2023**
-- Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, built a singly-linked list class in JavaScript and added operations like append, prepend, insert, delete, and printList
+- Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, built a singly-linked list class in JavaScript and added operations like append, prepend, insert, remove, and printList
 
 **May 6, 2023**
 - Completed an algorithm that used a hash table to help find the first recurring character in an array (the problem came from Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course)
