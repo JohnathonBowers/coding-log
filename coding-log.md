@@ -11,6 +11,7 @@
 
 **May 8, 2023**
 - Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, built a doubly-linked list class in JavaScript and added operations like append, prepend, insert, remove, and printList
+- Coded along with Neagoie to learn how to reverse the order of a linked list
 
 **May 7, 2023**
 - Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, built a singly-linked list class in JavaScript and added operations like append, prepend, insert, remove, and printList
