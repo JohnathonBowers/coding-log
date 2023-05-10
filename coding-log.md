@@ -9,6 +9,11 @@
 
 ## May 2023
 
+**May 9, 2023**
+- Studied the algorithm for reversing a linked list and reproduced the algorithm from memory to check for understanding.
+- Began studying stacks and queues in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+- Studied the loose vs. strict equality operators in JavaScript in Jonas Schmedtmann's Udemy course "The Complete JavaScript Course 2023"
+
 **May 8, 2023**
 - Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, built a doubly-linked list class in JavaScript and added operations like append, prepend, insert, remove, and printList
 - Coded along with Neagoie to learn how to reverse the order of a linked list
