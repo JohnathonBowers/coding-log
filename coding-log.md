@@ -9,6 +9,9 @@
 
 ## May 2023
 
+**May 10, 2023**
+- Studied the components of the JavaScript runtime environment in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+
 **May 9, 2023**
 - Studied the algorithm for reversing a linked list and reproduced the algorithm from memory to check for understanding.
 - Began studying stacks and queues in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
