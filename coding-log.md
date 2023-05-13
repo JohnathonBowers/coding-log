@@ -9,6 +9,9 @@
 
 ## May 2023
 
+**May 12, 2023**
+- Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, built a stack with push(), pop(), and peek() methods using a linked list
+
 **May 10, 2023**
 - Studied the components of the JavaScript runtime environment in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
 
