@@ -11,6 +11,7 @@
 
 **May 14, 2023**
 - Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, coded along an algorithm that constructs a queue using two stacks
+- Studied switch statements in JavaScript in Jonas Schmedtmann's Udemy course "The Complete JavaScript Course 2023"
 
 **May 13, 2023**
 - Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, implemented a queue with enqueue(), dequeue(), and peek() methods using a linked list
