@@ -9,6 +9,12 @@
 
 ## May 2023
 
+**May 14, 2023**
+- Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, coded along an algorithm that constructs a queue using two stacks
+
+**May 13, 2023**
+- Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, implemented a queue with enqueue(), dequeue(), and peek() methods using a linked list
+
 **May 12, 2023**
 - Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, built a stack with push(), pop(), and peek() methods using a linked list
 
