@@ -9,6 +9,9 @@
 
 ## May 2023
 
+**May 16, 2023**
+- Studied the concept of O(log N) runtime as well as binary search trees in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy courseS
+
 **May 15, 2023**
 - Studied introductory material regarding trees in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
 
