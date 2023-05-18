@@ -9,6 +9,10 @@
 
 ## May 2023
 
+**May 18, 2023**
+- Studied an introduction to Node.js in Jonas Schmedtmann's Udemy course "Node.js, Express, MongoDB & More: The Complete Bootcamp"
+- Coded along with Josh W. Comeau's module 1 workshop in his course "CSS for JavaScript Developers"
+
 **May 17, 2023**
 - Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, constructed a binary search tree and implemented insert() and lookup() methods
 
