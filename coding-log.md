@@ -9,6 +9,9 @@
 
 ## May 2023
 
+**May 19, 2023**
+- In Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, studied priority queues, tries, and introductory material related to graphs
+
 **May 18, 2023**
 - Studied an introduction to Node.js in Jonas Schmedtmann's Udemy course "Node.js, Express, MongoDB & More: The Complete Bootcamp"
 - Coded along with Josh W. Comeau's module 1 workshop in his course "CSS for JavaScript Developers"
