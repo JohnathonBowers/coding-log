@@ -9,6 +9,9 @@
 
 ## May 2023
 
+**May 20, 2023**
+- Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, learned about graph properties (directed vs. undirected, weighted vs. unweighted, cyclic vs. acyclic) and constructed a graph using an adjacency list
+
 **May 19, 2023**
 - In Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, studied priority queues, tries, and introductory material related to graphs
 
