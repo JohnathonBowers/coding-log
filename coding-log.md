@@ -9,6 +9,10 @@
 
 ## May 2023
 
+**May 21, 2023**
+- Studied JavaScript functions in Jonas Schmedtmann's Udemy course "The Complete JavaScript Course 2023"
+- Studied introductory material related to recursion in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+
 **May 20, 2023**
 - Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, learned about graph properties (directed vs. undirected, weighted vs. unweighted, cyclic vs. acyclic) and constructed a graph using an adjacency list
 
