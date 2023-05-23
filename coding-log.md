@@ -9,6 +9,9 @@
 
 ## May 2023
 
+**May 22, 2023**
+- Studied the anatomy of a recursive function in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+
 **May 21, 2023**
 - Studied JavaScript functions in Jonas Schmedtmann's Udemy course "The Complete JavaScript Course 2023"
 - Studied introductory material related to recursion in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
