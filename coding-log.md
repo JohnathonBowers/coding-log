@@ -9,6 +9,9 @@
 
 ## May 2023
 
+**May 24, 2023**
+- Studied recursive functions and when to use them in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+
 **May 23, 2023**
 - Following Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course, wrote recursive functions to calculate the factorial of a number as well as an index N's value in the Fibonacci sequence
 
