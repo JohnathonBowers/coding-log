@@ -9,6 +9,9 @@
 
 ## May 2023
 
+**May 25, 2023**
+- Studied bubble sort and selection sort algorithms in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+
 **May 24, 2023**
 - Studied recursive functions and when to use them in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
 
