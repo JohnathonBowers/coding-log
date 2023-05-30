@@ -10,6 +10,10 @@
 
 ## May 2023
 
+**May 29, 2023**
+
+-   Studied breadth-first search and depth-first search in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+
 **May 28, 2023**
 
 -   Studied the DOM and DOM manipulation in Jonas Schmedtmann's Udemy course "The Complete JavaScript Course 2023"
