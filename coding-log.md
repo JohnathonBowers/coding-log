@@ -10,6 +10,10 @@
 
 ## May 2023
 
+**May 30, 2023**
+
+-   Worked on Quoteworthy project. Began with a first draft refactoring of the code and performed functional testing. Having trouble adding the user ID to created quotations right now.
+
 **May 29, 2023**
 
 -   Studied breadth-first search and depth-first search in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
