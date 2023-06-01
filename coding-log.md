@@ -10,6 +10,11 @@
 
 ## May 2023
 
+**May 31, 2023**
+
+-   Changed data type for userId in the Quotation model from a number to a string, which allowed me to successfully post a new quotation with the userId attached
+-   Studied using BFS and DFS with graphs, also overviewed Dijkstra's algorithm and the Bellman-Ford algorithm in Andrei Neagoie's "Master the Coding Interview: Data Structures + Algorithms" Udemy course
+
 **May 30, 2023**
 
 -   Worked on Quoteworthy project. Began with a first draft refactoring of the code and performed functional testing. Having trouble adding the user ID to created quotations right now.
