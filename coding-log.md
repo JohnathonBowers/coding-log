@@ -4,9 +4,16 @@
 
 **Table of Contents**
 
+-   [June 2023](#june-2023)
 -   [May 2023](#may-2023)
 -   [April 2023](#april-2023)
 -   [March 2023](#march-2023)
+
+## June 2023
+
+**June 4, 2023**
+
+-   Studied more Java operators in Tim Buchalka's "Java Programming Masterclass" Udemy course
 
 ## May 2023
 
