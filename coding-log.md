@@ -11,6 +11,10 @@
 
 ## June 2023
 
+**June 18, 2023**
+
+-   Worked on binary search algorithms
+
 **June 4, 2023**
 
 -   Studied more Java operators in Tim Buchalka's "Java Programming Masterclass" Udemy course
