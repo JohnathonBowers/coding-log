@@ -12,6 +12,11 @@
 
 ## July 2023
 
+**July 10, 2023**
+
+-   Studied a backtracking algorithm with pruning
+-   Studied Java for, while, and do while statements in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
 **July 9, 2023**
 
 -   Studied Java switch statements in Tim Buchalka's Udemy course "Java Programming Masterclass"
