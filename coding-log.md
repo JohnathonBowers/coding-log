@@ -12,6 +12,11 @@
 
 ## July 2023
 
+**July 11, 2023**
+
+-   Studied a permutation algorithm
+-   Completed code challenges and studied exception handling and the Scanner class in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
 **July 10, 2023**
 
 -   Studied a backtracking algorithm with pruning
