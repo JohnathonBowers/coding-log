@@ -12,12 +12,17 @@
 
 ## July 2023
 
-**July 11, 2023**
+**July 13, 2023**
+
+-   Studied backtracking with memoization
+-   Completed code challenges and studied the Java Scanner class in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
+**July 12, 2023**
 
 -   Studied a permutation algorithm
 -   Completed code challenges and studied exception handling and the Scanner class in Tim Buchalka's Udemy course "Java Programming Masterclass"
 
-**July 10, 2023**
+**July 11, 2023**
 
 -   Studied a backtracking algorithm with pruning
 -   Studied Java for, while, and do while statements in Tim Buchalka's Udemy course "Java Programming Masterclass"
