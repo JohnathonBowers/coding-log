@@ -12,6 +12,10 @@
 
 ## July 2023
 
+**July 14, 2023**
+
+-   Completed a coding challenge in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
 **July 13, 2023**
 
 -   Studied backtracking with memoization
