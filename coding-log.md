@@ -12,6 +12,10 @@
 
 ## July 2023
 
+**July 15, 2023**
+
+-   Studied introductory material related to class attributes, getters and setters, and constructors in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
 **July 14, 2023**
 
 -   Completed a coding challenge in Tim Buchalka's Udemy course "Java Programming Masterclass"
