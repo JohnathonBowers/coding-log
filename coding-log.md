@@ -12,6 +12,10 @@
 
 ## July 2023
 
+**July 16, 2023**
+
+-   Studied constructor chaining and object references in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
 **July 15, 2023**
 
 -   Studied introductory material related to class attributes, getters and setters, and constructors in Tim Buchalka's Udemy course "Java Programming Masterclass"
