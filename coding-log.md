@@ -12,6 +12,10 @@
 
 ## July 2023
 
+**July 22, 2023**
+
+-   Studied the text block and string formatting options in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
 **July 16, 2023**
 
 -   Studied constructor chaining and object references in Tim Buchalka's Udemy course "Java Programming Masterclass"
