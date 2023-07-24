@@ -12,6 +12,10 @@
 
 ## July 2023
 
+**July 23, 2023**
+
+-   Studied string manipulation methods and the StringBuilder class in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
 **July 22, 2023**
 
 -   Studied the text block and string formatting options in Tim Buchalka's Udemy course "Java Programming Masterclass"
