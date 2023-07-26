@@ -12,6 +12,11 @@
 
 ## July 2023
 
+**July 25, 2023**
+
+-   Worked on backtracking algorithms
+-   Studied object composition in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
 **July 23, 2023**
 
 -   Studied string manipulation methods and the StringBuilder class in Tim Buchalka's Udemy course "Java Programming Masterclass"
