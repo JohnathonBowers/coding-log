@@ -12,6 +12,10 @@
 
 ## July 2023
 
+**July 26, 2023**
+
+-   Studied a backtracking, aggregation, and memoization algorithm
+
 **July 25, 2023**
 
 -   Worked on backtracking algorithms
