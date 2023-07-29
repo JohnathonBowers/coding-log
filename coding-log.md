@@ -12,6 +12,10 @@
 
 ## July 2023
 
+**July 27, 2023**
+
+-   Studied introductory material regarding operating systems, shells, and terminals in Colt Steele's Udemy course "The Linux Command Line Bootcamp: From Beginner to Power User"
+
 **July 26, 2023**
 
 -   Studied a backtracking, aggregation, and memoization algorithm
