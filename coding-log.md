@@ -12,6 +12,10 @@
 
 ## July 2023
 
+**July 29, 2023**
+
+-   Studied polymorphism in Tim Buchalka's Udemy course "Java Programming Masterclass"
+
 **July 27, 2023**
 
 -   Studied introductory material regarding operating systems, shells, and terminals in Colt Steele's Udemy course "The Linux Command Line Bootcamp: From Beginner to Power User"
