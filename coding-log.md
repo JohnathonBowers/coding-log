@@ -4,11 +4,16 @@
 
 **Table of Contents**
 
--   [July 2023](#july-2023)
--   [June 2023](#june-2023)
--   [May 2023](#may-2023)
--   [April 2023](#april-2023)
--   [March 2023](#march-2023)
+- [August 2023](#august-2023)
+- [July 2023](#july-2023)
+- [June 2023](#june-2023)
+- [May 2023](#may-2023)
+- [April 2023](#april-2023)
+- [March 2023](#march-2023)
+
+## August 2023
+
+-   Studied various aspects of the JavaScript engine and JavaScript runtime in Jonas Schmedtmann's Udemy course "The Complete JavaScript Course"
 
 ## July 2023
 
