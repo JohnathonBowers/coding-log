@@ -13,6 +13,13 @@
 
 ## August 2023
 
+**August 9, 2023**
+
+-   Had conversation with Chingu group project members to brainstorm ideas
+-   Studied scoping and hoisting in Jonas Schmedtmann's Udemy course "The Complete JavaScript Course"
+
+**August 7, 2023**
+
 -   Studied various aspects of the JavaScript engine and JavaScript runtime in Jonas Schmedtmann's Udemy course "The Complete JavaScript Course"
 
 ## July 2023
